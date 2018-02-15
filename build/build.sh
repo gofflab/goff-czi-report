@@ -5,6 +5,9 @@ export TZ=Etc/UTC
 # Default Python to read/write text files using UTF-8 encoding
 export LC_ALL=en_US.UTF-8
 
+# Make .docx as well.
+export BUILD_DOCX=true
+
 # Generate reference information
 echo "Retrieving and processing reference metadata"
 manubot \
@@ -58,7 +61,7 @@ pandoc \
   --metadata link-citations=true \
   --webtex=https://latex.codecogs.com/svg.latex? \
   --css=webpage/github-pandoc.css \
-  --output=output/manuscript.pdf \
+  --output=output/progress_report.pdf \
   $INPUT_PATH
 rm --recursive images
 
