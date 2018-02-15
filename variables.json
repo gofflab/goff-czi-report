@@ -39,12 +39,13 @@
     "repo_slug": "gofflab/goff-czi-report",
     "repo_owner": "gofflab",
     "repo_name": "goff-czi-report",
-    "commit": "ec530cda26a38dcdb42e4bb61b8e78a6c884002d"
+    "commit": "dd17315082af2405a8c543e8edaa9c6c8a383847"
   },
   "manuscript_stats": {
     "reference_counts": {
-      "total": 0
+      "doi": 2,
+      "total": 2
     },
-    "word_count": 1032
+    "word_count": 1034
   }
 }
