@@ -20,7 +20,7 @@ title: 'Progress Report: Rapid exploration, interpretation, and comparison of di
 
 <small><em>
 This manuscript was automatically generated
-from [gofflab/goff-czi-report@8c89d51](https://github.com/gofflab/goff-czi-report/tree/8c89d51b7304923eb2e27e384739f268d2e52cef)
+from [gofflab/goff-czi-report@14da835](https://github.com/gofflab/goff-czi-report/tree/14da835f6958c15f1f37cecf5e52bf617ba8e3d8)
 on February 15, 2018.
 </em></small>
 
@@ -32,7 +32,7 @@ on February 15, 2018.
     ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
     [0000-0003-2875-451X](https://orcid.org/0000-0003-2875-451X)
     · ![GitHub icon](images/github.svg){height="13px" width="13px"}
-    [loyalgoff](https://github.com/loyalgoff)
+    [loyale](https://github.com/loyale)
     · ![Twitter icon](images/twitter.svg){height="13px" width="13px"}
     [loyalgoff](https://twitter.com/loyalgoff)<br>
   <small>

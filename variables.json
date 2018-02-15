@@ -2,7 +2,7 @@
   "date": "February 15, 2018",
   "authors": [
     {
-      "github": "loyalgoff",
+      "github": "loyale",
       "name": "Loyal Goff",
       "initials": "LAG",
       "orcid": "0000-0003-2875-451X",
@@ -62,7 +62,7 @@
     "repo_slug": "gofflab/goff-czi-report",
     "repo_owner": "gofflab",
     "repo_name": "goff-czi-report",
-    "commit": "8c89d51b7304923eb2e27e384739f268d2e52cef"
+    "commit": "14da835f6958c15f1f37cecf5e52bf617ba8e3d8"
   },
   "manuscript_stats": {
     "reference_counts": {
