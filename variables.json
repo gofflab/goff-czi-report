@@ -2,18 +2,22 @@
   "date": "February 15, 2018",
   "authors": [
     {
-      "github": "johndoe",
-      "name": "John Doe",
-      "initials": "JD",
-      "orcid": "XXXX-XXXX-XXXX-XXXX",
-      "twitter": "johndoe",
-      "email": "john.doe@something.com",
+      "github": "loyalgoff",
+      "name": "Loyal Goff",
+      "initials": "LAG",
+      "orcid": "0000-0003-2875-451X",
+      "twitter": "loyalgoff",
+      "email": "loyalgoff@jhmi.edu",
       "affiliations": [
-        "Department of Something, University of Whatever"
+        "Department of Neuroscience, Johns Hopkins University",
+        "Institute for Genetic Medicine, Johns Hopkins University",
+        "Kavli Neurodiscovery Institute, Johns Hopkins University"
       ],
       "funders": "Grant XXXXXXXX",
       "affiliation_numbers": [
-        1
+        1,
+        2,
+        3
       ]
     },
     {
@@ -27,26 +31,38 @@
         "Department of Whatever, University of Something"
       ],
       "affiliation_numbers": [
-        1,
-        2
+        4,
+        5
       ]
     }
   ],
   "affiliations": [
     {
-      "affiliation": "Department of Something, University of Whatever",
+      "affiliation": "Department of Neuroscience, Johns Hopkins University",
       "affiliation_number": 1
     },
     {
-      "affiliation": "Department of Whatever, University of Something",
+      "affiliation": "Institute for Genetic Medicine, Johns Hopkins University",
       "affiliation_number": 2
+    },
+    {
+      "affiliation": "Kavli Neurodiscovery Institute, Johns Hopkins University",
+      "affiliation_number": 3
+    },
+    {
+      "affiliation": "Department of Something, University of Whatever",
+      "affiliation_number": 4
+    },
+    {
+      "affiliation": "Department of Whatever, University of Something",
+      "affiliation_number": 5
     }
   ],
   "ci_source": {
     "repo_slug": "gofflab/goff-czi-report",
     "repo_owner": "gofflab",
     "repo_name": "goff-czi-report",
-    "commit": "01ff9d1de0becd0156598c05598e706bf6efd4de"
+    "commit": "e2711809c6c042f64e0588db514788ed3b763a31"
   },
   "manuscript_stats": {
     "reference_counts": {
