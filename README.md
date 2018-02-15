@@ -15,4 +15,4 @@ This directory contains the following files, which are mostly ignored on the `ma
 ## Source
 
 The manuscripts in this directory were built from
-[`50e2b5b6fd0aca64d7d47574579b74fd0ec37d0f`](https://github.com/gofflab/goff-czi-report/commit/50e2b5b6fd0aca64d7d47574579b74fd0ec37d0f).
+[`ec530cda26a38dcdb42e4bb61b8e78a6c884002d`](https://github.com/gofflab/goff-czi-report/commit/ec530cda26a38dcdb42e4bb61b8e78a6c884002d).
