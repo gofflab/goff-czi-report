@@ -1,20 +1,24 @@
 ---
-title: "Manubot Rootstock: Manuscript Title"
+title: "Goff Lab CZI RFA Report"
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - ProjectR
+  - human cell atlas
+  - retina
+  - transfer learning
+
 lang: en-US
 author_info:
   -
-    github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+    github: loyalgoff
+    name: Loyal Goff
+    initials: LAG
+    orcid: 0000-0003-2875-451X
+    twitter: loyalgoff
+    email: loyalgoff@jhmi.edu
     affiliations:
-      - Department of Something, University of Whatever
+      - Department of Neuroscience, Johns Hopkins University
+      - Institute for Genetic Medicine, Johns Hopkins University
+      - Kavli Neurodiscovery Institute, Johns Hopkins University
     funders: Grant XXXXXXXX
   -
     github: janeroe
