@@ -9,7 +9,8 @@ keywords:
 - retina
 - transfer learning
 lang: en-US
-title: Goff Lab CZI RFA Report
+title: 'Progress Report: Rapid exploration, interpretation, and comparison of discrete
+  single cell transcriptional basis vectors'
 ...
 
 
@@ -19,7 +20,7 @@ title: Goff Lab CZI RFA Report
 
 <small><em>
 This manuscript was automatically generated
-from [gofflab/goff-czi-report@e271180](https://github.com/gofflab/goff-czi-report/tree/e2711809c6c042f64e0588db514788ed3b763a31)
+from [gofflab/goff-czi-report@8c89d51](https://github.com/gofflab/goff-czi-report/tree/8c89d51b7304923eb2e27e384739f268d2e52cef)
 on February 15, 2018.
 </em></small>
 
