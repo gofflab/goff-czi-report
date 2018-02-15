@@ -19,21 +19,6 @@
         2,
         3
       ]
-    },
-    {
-      "github": "janeroe",
-      "name": "Jane Roe",
-      "initials": "JR",
-      "orcid": "XXXX-XXXX-XXXX-XXXX",
-      "email": "jane.roe@whatever.edu",
-      "affiliations": [
-        "Department of Something, University of Whatever",
-        "Department of Whatever, University of Something"
-      ],
-      "affiliation_numbers": [
-        4,
-        5
-      ]
     }
   ],
   "affiliations": [
@@ -48,26 +33,18 @@
     {
       "affiliation": "Kavli Neurodiscovery Institute, Johns Hopkins University",
       "affiliation_number": 3
-    },
-    {
-      "affiliation": "Department of Something, University of Whatever",
-      "affiliation_number": 4
-    },
-    {
-      "affiliation": "Department of Whatever, University of Something",
-      "affiliation_number": 5
     }
   ],
   "ci_source": {
     "repo_slug": "gofflab/goff-czi-report",
     "repo_owner": "gofflab",
     "repo_name": "goff-czi-report",
-    "commit": "14da835f6958c15f1f37cecf5e52bf617ba8e3d8"
+    "commit": "0734206109b82a7d23da4bf3a22174b406bb916b"
   },
   "manuscript_stats": {
     "reference_counts": {
       "total": 0
     },
-    "word_count": 206
+    "word_count": 682
   }
 }
