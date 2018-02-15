@@ -19,7 +19,7 @@ title: 'Progress Report: Rapid exploration, interpretation, and comparison of di
 
 <small><em>
 This manuscript was automatically generated
-from [gofflab/goff-czi-report@dd17315](https://github.com/gofflab/goff-czi-report/tree/dd17315082af2405a8c543e8edaa9c6c8a383847)
+from [gofflab/goff-czi-report@e96e046](https://github.com/gofflab/goff-czi-report/tree/e96e046ada97193f50838e9efc2e2d9caace177a)
 on February 15, 2018.
 </em></small>
 
