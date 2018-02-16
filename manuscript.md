@@ -1,7 +1,7 @@
 ---
 author-meta:
 - Loyal Goff
-date-meta: '2018-02-15'
+date-meta: '2018-02-16'
 keywords:
 - ProjectR
 - human cell atlas
@@ -19,8 +19,8 @@ title: 'Progress Report: Rapid exploration, interpretation, and comparison of di
 
 <small><em>
 This manuscript was automatically generated
-from [gofflab/goff-czi-report@e96e046](https://github.com/gofflab/goff-czi-report/tree/e96e046ada97193f50838e9efc2e2d9caace177a)
-on February 15, 2018.
+from [gofflab/goff-czi-report@7bf9b66](https://github.com/gofflab/goff-czi-report/tree/7bf9b66b3658b444c9fc74cf455ffebacb8cdd9f)
+on February 16, 2018.
 </em></small>
 
 ## Authors
