@@ -17,3 +17,5 @@ __pycache__/
 # Misc temporary files
 *.bak
 
+# Mac OSX system files
+.DS_Store
