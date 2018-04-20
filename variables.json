@@ -1,5 +1,5 @@
 {
-  "date": "February 16, 2018",
+  "date": "April 20, 2018",
   "authors": [
     {
       "github": "loyale",
@@ -39,13 +39,13 @@
     "repo_slug": "gofflab/goff-czi-report",
     "repo_owner": "gofflab",
     "repo_name": "goff-czi-report",
-    "commit": "7bf9b66b3658b444c9fc74cf455ffebacb8cdd9f"
+    "commit": "0cd3cb9c5a7b9824f6cb1083a18d59c27b2a6247"
   },
   "manuscript_stats": {
     "reference_counts": {
       "doi": 2,
       "total": 2
     },
-    "word_count": 1034
+    "word_count": 1039
   }
 }

@@ -1,7 +1,7 @@
 ---
 author-meta:
 - Loyal Goff
-date-meta: '2018-02-16'
+date-meta: '2018-04-20'
 keywords:
 - ProjectR
 - human cell atlas
@@ -19,8 +19,8 @@ title: 'Progress Report: Rapid exploration, interpretation, and comparison of di
 
 <small><em>
 This manuscript was automatically generated
-from [gofflab/goff-czi-report@7bf9b66](https://github.com/gofflab/goff-czi-report/tree/7bf9b66b3658b444c9fc74cf455ffebacb8cdd9f)
-on February 16, 2018.
+from [gofflab/goff-czi-report@0cd3cb9](https://github.com/gofflab/goff-czi-report/tree/0cd3cb9c5a7b9824f6cb1083a18d59c27b2a6247)
+on April 20, 2018.
 </em></small>
 
 ## Authors
@@ -72,6 +72,9 @@ _To develop model comparison statistics, pathway enrichment testing, and novel b
 1. We will compare collaborative network analytical tools using ProjectoR projections on benchmark datasets to highlight optimal usage for specific biological questions.
 2. We will develop a statistical framework to test for discriminatory power for major cell types or lineages by a given pattern, and develop tools to identify technical artifact patterns.
 3. We will develop ProjectoR visualizations to explore shared biological features across benchmark datasets, as well as public and published single cell RNA-Seq datasets to create comprehensive model via projection  (e.g. PCA as example).
+
+
+# CZI Computational Tools Meeting
 
 
 ## References {.page_break_before}

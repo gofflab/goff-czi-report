@@ -4,12 +4,12 @@
       "date-parts": [
         [
           2018,
-          2,
-          7
+          4,
+          20
         ]
       ],
-      "date-time": "2018-02-07T12:42:43Z",
-      "timestamp": 1518007363486
+      "date-time": "2018-04-20T10:22:31Z",
+      "timestamp": 1524219751346
     },
     "reference-count": 226,
     "publisher": "Springer Nature",
@@ -62,7 +62,7 @@
     "page": "1145-1160",
     "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
     "source": "Crossref",
-    "is-referenced-by-count": 56,
+    "is-referenced-by-count": 72,
     "title": "Revealing the vectors of cellular identity with single-cell genomics",
     "prefix": "10.1038",
     "volume": "34",
@@ -83,7 +83,7 @@
         "affiliation": []
       }
     ],
-    "member": "339",
+    "member": "297",
     "published-online": {
       "date-parts": [
         [
@@ -142,9 +142,7 @@
       "BFnbt3711"
     ],
     "URL": "https://doi.org/10.1038/nbt.3711",
-    "relation": {
-      "cites": []
-    },
+    "relation": {},
     "subject": [
       "Biotechnology",
       "Molecular Medicine",
