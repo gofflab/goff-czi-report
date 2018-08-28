@@ -4,12 +4,12 @@
       "date-parts": [
         [
           2018,
-          4,
-          20
+          8,
+          23
         ]
       ],
-      "date-time": "2018-04-20T10:22:31Z",
-      "timestamp": 1524219751346
+      "date-time": "2018-08-23T21:22:39Z",
+      "timestamp": 1535059359825
     },
     "reference-count": 226,
     "publisher": "Springer Nature",
@@ -62,7 +62,7 @@
     "page": "1145-1160",
     "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
     "source": "Crossref",
-    "is-referenced-by-count": 72,
+    "is-referenced-by-count": 92,
     "title": "Revealing the vectors of cellular identity with single-cell genomics",
     "prefix": "10.1038",
     "volume": "34",
@@ -70,16 +70,19 @@
       {
         "given": "Allon",
         "family": "Wagner",
+        "sequence": "first",
         "affiliation": []
       },
       {
         "given": "Aviv",
         "family": "Regev",
+        "sequence": "additional",
         "affiliation": []
       },
       {
         "given": "Nir",
         "family": "Yosef",
+        "sequence": "additional",
         "affiliation": []
       }
     ],
@@ -95,6 +98,7 @@
     },
     "container-title": "Nature Biotechnology",
     "original-title": [],
+    "language": "en",
     "link": [
       {
         "URL": "http://www.nature.com/articles/nbt.3711.pdf",
@@ -138,18 +142,24 @@
       ]
     },
     "references-count": 226,
+    "journal-issue": {
+      "published-print": {
+        "date-parts": [
+          [
+            2016,
+            11
+          ]
+        ]
+      },
+      "issue": "11"
+    },
     "alternative-id": [
       "BFnbt3711"
     ],
     "URL": "https://doi.org/10.1038/nbt.3711",
-    "relation": {},
-    "subject": [
-      "Biotechnology",
-      "Molecular Medicine",
-      "Applied Microbiology and Biotechnology",
-      "Bioengineering",
-      "Biomedical Engineering"
-    ],
+    "relation": {
+      "cites": []
+    },
     "container-title-short": "Nat Biotechnol",
     "short_url": "https://doi.org/f9bcfw",
     "id": "KFw2YbUB"
@@ -159,12 +169,12 @@
       "date-parts": [
         [
           2018,
-          2,
-          12
+          5,
+          3
         ]
       ],
-      "date-time": "2018-02-12T16:07:04Z",
-      "timestamp": 1518451624680
+      "date-time": "2018-05-03T04:34:01Z",
+      "timestamp": 1525322041978
     },
     "reference-count": 0,
     "publisher": "AICIT",
@@ -204,6 +214,7 @@
     "author": [
       {
         "given": "Ding Pan",
+        "sequence": "first",
         "affiliation": []
       }
     ],
@@ -234,12 +245,20 @@
       ]
     },
     "references-count": 0,
+    "journal-issue": {
+      "published-print": {
+        "date-parts": [
+          [
+            2010,
+            5,
+            31
+          ]
+        ]
+      },
+      "issue": "3"
+    },
     "URL": "https://doi.org/10.4156/jcit.vol5.issue3.7",
     "relation": {},
-    "subject": [
-      "Computer Networks and Communications",
-      "Hardware and Architecture"
-    ],
     "container-title-short": "JCIT",
     "short_url": "https://doi.org/d8f3jr",
     "id": "p1XD3Q9"

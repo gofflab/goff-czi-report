@@ -1,7 +1,7 @@
 ---
 author-meta:
 - Loyal Goff
-date-meta: '2018-04-20'
+date-meta: '2018-08-28'
 keywords:
 - ProjectR
 - human cell atlas
@@ -19,8 +19,8 @@ title: 'Progress Report: Rapid exploration, interpretation, and comparison of di
 
 <small><em>
 This manuscript was automatically generated
-from [gofflab/goff-czi-report@0cd3cb9](https://github.com/gofflab/goff-czi-report/tree/0cd3cb9c5a7b9824f6cb1083a18d59c27b2a6247)
-on April 20, 2018.
+from [gofflab/goff-czi-report@5cfd51c](https://github.com/gofflab/goff-czi-report/tree/5cfd51c4a037bb3abc880c6be144689c8277b71a)
+on August 28, 2018.
 </em></small>
 
 ## Authors
@@ -75,6 +75,53 @@ _To develop model comparison statistics, pathway enrichment testing, and novel b
 
 
 # CZI Computational Tools Meeting
+
+
+# Developing Retina Benchmark Dataset
+
+# Deliverable Products
+
+## Latent Spaces Group
+
+### Refined Definition of biological latent space
+
+### Standardized requirements and file formats for latent spaces
+
+## Goff Lab Direct Collaborations
+
+### Single cell RNA-Seq atlas of the developing murine retina
+
+Preprint: https://www.biorxiv.org/content/early/2018/07/30/378950
+Available: https://github.com/gofflab/developing_mouse_retina_scRNASeq
+Status: 
+
+### ProjectR
+
+Preprint: https://www.biorxiv.org/content/early/2018/08/20/395004.1
+Available: https://github.com/genesofeve/projectR
+Status: 
+
+### scCoGAPS
+
+Preprint: https://www.biorxiv.org/content/early/2018/08/20/395004.1
+
+###
+
+
+
+# Computational Tools Network Enhanced Interactions
+
+• Increased collaborative interactions and shared trainees with Dr. Elana Fertig lab
+	- Two groups cross training in experimental and computational single cell analysis
+
+• Postdoctoral trainee Dr. Stein-O'Brien's participation in the Jamboree enabled fruitful discussion and code for projectR.
+
+• Two collaboratively written publications with Dr. Elana Fertig
+	- Release, description, and biological exploration of a comprehensive single cell RNA-seq dataset from the developing mouse retina
+	- Introduction of scCoGAPS and ProjectR for latent space discovery across single cells and transfer learning across experiments.
+
+• Interactions with CZI cellxgene development group Re: possible latent space visualizations
+
 
 
 ## References {.page_break_before}
